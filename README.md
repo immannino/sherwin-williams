@@ -26,3 +26,6 @@ View the [list of available variables here](./sherwin-william.css).
 
 ![](./screenshot.png)
 _And many more!_
+
+__more__
+![All Colors](./data/all-colors.svg)
